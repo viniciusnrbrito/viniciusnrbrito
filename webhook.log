@@ -5,3 +5,10 @@
  * Running on http://10.0.0.76:5050
 [2025-04-20 18:25:58] INFO: [33mPress CTRL+C to quit[0m
 [2025-04-20 18:26:04] INFO: 127.0.0.1 - - [20/Apr/2025 18:26:04] "GET / HTTP/1.1" 200 -
+[2025-04-21 01:55:26] INFO: 🔧 Iniciando servidor Flask no webhook_receiver.py
+[2025-04-21 01:55:26] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.0.10.46:5050
+[2025-04-21 01:55:26] INFO: [33mPress CTRL+C to quit[0m
+[2025-04-21 01:55:33] INFO: 127.0.0.1 - - [21/Apr/2025 01:55:33] "GET / HTTP/1.1" 200 -
